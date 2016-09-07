@@ -17,6 +17,9 @@
     "url": "https://github.com/antialias/react-dom-element-wrapper/issues"
   },
   "homepage": "https://github.com/antialias/react-dom-element-wrapper#readme",
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0"
+  },
   "devDependencies": {
     "enzyme": "^2.4.1",
     "jsdom": "^9.5.0",
